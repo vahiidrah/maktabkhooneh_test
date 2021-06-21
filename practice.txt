@@ -1,0 +1,2 @@
+git diff: show changes for entire repo
+git diff index.html: show changes for index.html only
